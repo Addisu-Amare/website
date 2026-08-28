@@ -234,12 +234,25 @@ You can modify the app to:
 - **Caching**: Session state stores results temporarily
 - **Error Handling**: Graceful failure for network issues
 
+- ## Relevance to Financial Inclusion
+
+This project demonstrates the core skills needed for alternative data research:
+- **Data Discovery**: Identifying sentiment signals from unstructured news
+- **Signal Engineering**: Converting raw text into structured polarity scores
+- **Operationalization**: Building a real-time, production-ready dashboard
+- **Decision Support**: Visualizing insights for quick, informed decisions
+
+This approach can be extended to:
+- Mobile money transaction sentiment
+- Agricultural market news analysis
+- Small business health indicators from social media
+
 ## **License**
 
 MIT License - Feel free to use, modify, and distribute.
 
 ---
 
-**Happy Analyzing! 📊** 
+Happy Analyzing!  
 
 *Remember: Sentiment analysis is a tool, not financial advice. Always do your own research before making investment decisions.*
